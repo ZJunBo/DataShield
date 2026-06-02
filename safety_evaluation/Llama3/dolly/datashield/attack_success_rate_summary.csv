@@ -1,0 +1,7 @@
+file_name,total_samples,unsafe_count,attack_success_rate
+Llama3_datashield_13214_dolly_top_1000-direct.json,400,343,85.75%
+Llama3_datashield_13214_dolly_bottom_1000-direct.json,400,7,1.75%
+Llama3_datashield_13214_dolly_bottom_1000-harm.json,200,1,0.50%
+Llama3_datashield_13214_dolly_bottom_1000-phi.json,290,4,1.38%
+Llama3_datashield_13214_dolly_top_1000-phi.json,290,237,81.72%
+Llama3_datashield_13214_dolly_top_1000-harm.json,200,180,90.00%
